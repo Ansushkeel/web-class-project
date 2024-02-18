@@ -40,21 +40,74 @@ a:hover {
     margin: 10px;
    padding: 10PX;
    padding-top: 5px;
-   padding-bottom: 5px;
+   padding-bottom: 20px;
    border-radius: 5px solid black;
    
 }
 
+.divimg{
+    display: flex;
+    align-items: flex-start;
+    margin: 50px;
+    margin-left: -90px;
+    width: 100px;
+    height: 50px;
+}
+.divimg img{
+    width: 300px;
+    height: 450px;
+    margin-top: -30px;
+    margin-left: -50px;
+}
+.myart{
+    color: rgb(15, 230, 230);
+    background-color: #000;
+    text-decoration: none;
+}
 
 
 .h{
     background-color: #000;
     color: aqua;
+    margin-bottom: 20px;
+    margin-top: -20px;
+    padding: -20px;
    
 }
+.h1img{
+    display: inline;
+    margin-left: 200px;
 
-
-
+}
+.img222{
+    
+}
+ .btn-primary{
+    background-color:rgb(102, 102, 207);
+    color: white;
+    margin-left: 5px;
+    border-radius: 300px solid black;
+}
+.bbtn-primary{
+    width: 450px;
+    background-color: bisque;
+    border-bottom: 10px solid burlywood;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    word-spacing: 25px;
+}
+.imgico{
+    display:flex;
+    align-items: row-reverse;
+    text-align: right;
+    margin-right: 5px;
+margin-left: 900px;
+margin-top: 50px;
+}
+.imgicon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 
 
